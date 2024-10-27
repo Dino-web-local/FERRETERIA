@@ -46,7 +46,8 @@ Ofrecemos una amplia gama de productos y servicios que incluyen:
 
 Aquí algunos de los productos más destacados de nuestro catálogo:
 
-![Herramientas Eléctricas](https://via.placeholder.com/300x200) <!-- Reemplaza con una imagen real -->
+![Herramientas Eléctricas](https://![image](https://github.com/user-attachments/assets/4536c64a-518c-4f8d-aaea-48bcf0f4b726)
+/300x200) <!-- Reemplaza con una imagen real -->
 *Imagen 1*: Herramientas eléctricas de primera calidad.
 
 ![Materiales de Construcción](https://via.placeholder.com/300x200) <!-- Reemplaza con una imagen real -->
