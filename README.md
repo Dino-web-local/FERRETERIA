@@ -4,7 +4,8 @@ Bienvenidos a **Ferretería Dino**, su tienda de confianza para herramientas, ma
 
 ---
 
-![Logo de Ferretería Dino](https://via.placeholder.com/150) <!-- Reemplaza con una imagen del logo -->
+![Logo de Ferretería Dino][(https://via.placeholder.com/150)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPlQ_AnQhSNww6gE26n5hvuxyZ1sO2_upiiQ&s)
+<!-- Reemplaza con una imagen del logo -->
 
 ## 📜 Descripción
 
